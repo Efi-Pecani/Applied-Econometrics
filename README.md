@@ -2,7 +2,7 @@
 Exercises made of real central bureau of statistics data
 
 
-![rint](https://github.com/efipaka/Applied-Econometrics/blob/master/rintrest%20over%20time.jpeg)
+![rint](https://github.com/efipaka/Applied-Econometrics/blob/master/rintrest%20over%220time.jpeg)
 
 ![gdp](https://github.com/efipaka/Applied-Econometrics/blob/master/GDP%20over%20time.jpeg)
 
